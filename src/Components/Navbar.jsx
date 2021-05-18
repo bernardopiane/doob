@@ -23,7 +23,7 @@ const LinkArea = styled.div`
   flex-wrap: wrap;
   flex: 1;
   @media (max-width: 800px) {
-    justify-content: end;
+    justify-content: flex-end;
   }
 
   > * {

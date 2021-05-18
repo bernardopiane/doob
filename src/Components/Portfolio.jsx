@@ -23,7 +23,7 @@ const Title = styled.div`
 
 const ArrowArea = styled.div`
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
 `;
 
 const MyRow = styled(Row)`

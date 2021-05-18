@@ -31,7 +31,7 @@ const Text = styled.div`
 `;
 
 const Arrow = styled.div`
-  align-self: end;
+  align-self: flex-end;
   padding-top: 2em;
   > svg {
     cursor: pointer;

@@ -18,7 +18,7 @@ const Wrapper = styled.div`
 const TitleArea = styled.div`
   display: flex;
   justify-content: space-between;
-  align-items: end;
+  align-items: flex-end;
   padding-bottom: 3em;
 `;
 
